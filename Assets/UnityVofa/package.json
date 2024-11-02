@@ -1,0 +1,20 @@
+{
+  "name": "com.github.wintbiit.unityvofa",
+  "displayName": "UnityVofa",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "UnityVofa is an utility package for Unity Engine that providers a external connector to Vofa Debugger and send data stream to Vofa Debugger.",
+  "keywords": ["vofa", "debug"],
+  "category": "Utility",
+  "author": {
+    "name": "WintBit",
+    "email": "https://github.com/wintbit"
+  },
+  "samples": [
+    {
+      "displayName": "Game Info",
+      "description": "This sample shows how to send game info to Vofa Debugger.",
+      "path": "Samples/GameInfo"
+    }
+  ]
+}
